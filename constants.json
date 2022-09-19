@@ -1,0 +1,8 @@
+{
+    "categoryIds": [
+        { "name": "IT", "categoryIds": [96] },
+        { "name": "Healthcare", "categoryIds": [14, 15, 17] },
+        { "name": "Software", "categoryIds": [4] },
+        { "name": "Automotive", "categoryIds": [53] }
+    ]
+}
